@@ -4,9 +4,6 @@
 
 Este repositório está sendo desenvolvido para fins didáticos, aqui vou disponibilizar todo meu conhecimento adquirido ao logno do curso de ADS e dos meus estudos de forma autoditada, além de também colaborar com projetos do GitHub e outros. 
 
-## Objetivo 🎯
-Trazer informações de forma resumida sobre diversos assuntos... enquanto esse repositório vira meu grande diário.
-
 ##  Sobre mim
 
  Olá, sou Yvana Nerino, tenho 23 anos e sou formada em Biblioteconomia pela Universidade Federal do Espírito Santo (UFES) e atualmente Pós-graduanda em Administração de Processos Administrativos Previdenciários. Atualmente, trabalho em um escritório de Advocacia Previdenciário, onde não só auxilio nas demandas cotidianas, mas também lidero a gestão da informação como bibliotecária...
@@ -16,6 +13,9 @@ Ao longo da minha jornada acadêmica, tive uma disciplina de T.I, "Banco de Dado
 Hoje busco ativamente aprimorar meus estudos em tecnologia e programação, quero focar no backend, e futuramente quem sabe não em especializar mais ainda nesse mundo dos banco de dados.
 
 Se quiser me acompanhar um pouco mais de pertinho vou deixar aqui o meu [Instagram](https://www.instagram.com/yv_nerino) e também o meu [Linkednl](https://www.linkedin.com/in/yv-nerino/) 😊💙.
+
+## Objetivo 🎯
+Trazer informações de forma resumida sobre diversos assuntos... enquanto esse repositório vira meu grande diário.
 
 ## Ferramentas e linguas que estou aprendendo e utilizando: 🛠️
 
